@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/Authtbh/react-portfolio)
 
-- 🌱 I’m currently learning **Postgresql**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Rig](https://github.com/rigdev/rig)
-
-- 👨‍💻 All of my projects are available at [https://react-portfolio-theta-two.vercel.app/](https://react-portfolio-theta-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://authtbh.vercel.app/](https://authtbh.vercel.app/)
 
 - 💬 Ask me about **react, vite, gasp, framer-motion, tailwindcss, bootstrap**
 
 - 📫 How to reach me **AuthFr@proton.me**
 
-- ⚡ Fun fact **i think i like coding**
+- ⚡ Fun fact **coding sucks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
