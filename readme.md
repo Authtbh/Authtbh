@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://authtbh.vercel.app/](https://authtbh.vercel.app/)
 
-- 💬 Ask me about **react, vite, gasp, framer-motion, tailwindcss, bootstrap**
+- 💬 Ask me about **nextjs, rust, python, javascript**
 
 - 📫 How to reach me **AuthFr@proton.me**
 
